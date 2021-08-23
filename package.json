@@ -9,9 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^3.0.0"
+    "vue": "^3.0.0",
+    "vue-advanced-chat": "https://github.com/antoine92190/vue-advanced-chat/tarball/next"
   },
   "devDependencies": {
+    "@vue/compat": "^3.2.4",
     "@typescript-eslint/eslint-plugin": "^4.18.0",
     "@typescript-eslint/parser": "^4.18.0",
     "@vue/cli-plugin-babel": "~4.5.0",
